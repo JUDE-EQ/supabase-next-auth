@@ -176,7 +176,7 @@ export default async function Dashboard() {
               <DropdownMenuItem>Support</DropdownMenuItem>
               <DropdownMenuSeparator />
               <DropdownMenuItem>
-                <span className="block" onClick={() => handleLogout}>Logout</span>
+                <span className="block" >Logout</span>
               </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
